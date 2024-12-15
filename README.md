@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://runow.dev/"><img src="https://github.com/runowjs/.github/logo.svg" alt="Runow logo" width="200"></a>
+  <a href="https://runow.dev/"><img src="https://github.com/runowjs/.github/blob/main/logo.svg" alt="Runow logo" width="200"></a>
 
 # Runow
 
