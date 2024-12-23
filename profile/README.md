@@ -3,11 +3,11 @@
 
 # Runow
 
-Create an app that can run now. It's quick!
+Create an app and run now. It's quick!
 
 [Homepage](https://runow.dev/) •
 [NPM](https://www.npmjs.com/package/runow) •
-[Why Runow?](https://runow.dev/guide/why)
+[Demos](https://runow.dev/demos)
 
-### [_Getting Started!_](https://runow.dev/guide/#getting-started)
+### [_Getting Started!_](https://runow.dev/guide/getting-started)
 </div>
